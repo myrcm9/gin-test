@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/myrcm9/gin-test/controller"
+	"github.com/myrcm9/gin-test/backend/controller"
 	"github.com/myrcm9/gin-test/middleware"
 
 	"github.com/gin-gonic/gin"

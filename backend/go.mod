@@ -1,4 +1,4 @@
-module gin-test
+module github.com/myrcm9/gin-test
 
 go 1.17
 
